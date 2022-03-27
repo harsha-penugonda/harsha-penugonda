@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vpenugon@stevens.edu**
 
-- ⚡ Fun fact **I Like Watching Movies, Playing Music and Dogs**
+- ⚡ Fun fact **I Like Watching Movies, Listening Music and Dogs**
 <h3 align="left">Connect with me:</h3>
 <a href="www.linkedin.com/in/harsha-penugonda-448288162">
   <img align = "left" width="24px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"  />
