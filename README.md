@@ -1,4 +1,4 @@
-## <h1 align="center"> Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Harsha Penugonda! </h1>
+## <h1 align="center"> Hey 👋, I'm Harsha Penugonda! </h1>
 <h3 align="center">Computer Science Student | Aspiring Software Engineer</h3>
 
 - 🔭 I’m currently gradute student at **Stevens Institute of Technology**
